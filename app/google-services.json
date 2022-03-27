@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208747871106",
+    "project_id": "tech-shop-e542b",
+    "storage_bucket": "tech-shop-e542b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208747871106:android:caae1ad2c4d77a22eded9b",
+        "android_client_info": {
+          "package_name": "com.aleynapolat.techshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208747871106-m6ous3qdai0tjsmq0885ojqlsq7lj5s3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDleA0kjdEEI_mK6zLvYmPYlgR7sDaCokI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208747871106-m6ous3qdai0tjsmq0885ojqlsq7lj5s3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
